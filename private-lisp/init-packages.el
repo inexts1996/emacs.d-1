@@ -12,6 +12,7 @@
  (defvar my/packages '(
     csharp-mode
     omnisharp
+    org-bullets
 		) "Default packages")
 
  (setq package-selected-packages my/packages)
